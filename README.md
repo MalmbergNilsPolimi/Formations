@@ -1,0 +1,1 @@
+This repository contains my notes on the online training courses I have taken.
